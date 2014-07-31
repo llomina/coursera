@@ -11,6 +11,7 @@ for name in names:
 #count how many times each one occurs by looking for each 
 #one and adding one more to count each time it is found
     counts[name] = counts.get(name,0) +1
-#print the     
+#print the vales and keys    
 print counts
-    
+
+# end lesson 9
